@@ -1,0 +1,13 @@
+project_id = "txgskxeacvecfabrthgv"
+
+[functions.create-payment]
+verify_jwt = false
+
+[functions.check-payment]
+verify_jwt = false
+
+[functions.mercadopago-webhook]
+verify_jwt = false
+
+[functions.process-refund]
+verify_jwt = false
